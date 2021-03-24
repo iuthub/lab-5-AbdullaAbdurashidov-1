@@ -1,0 +1,7 @@
+Shoh; MH; 97885774-5466; Visa
+Xojik; MA; 123894301-7777; Visa
+Joha; MC; 5436645-2139401; Master Card
+Soha; MC; 5436645-2139401; Master Card
+Kaha; MC; 5436645-2139401; Master Card
+Baxa; MC; 5436645-2139401; Master Card
+
